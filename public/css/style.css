@@ -1,0 +1,24 @@
+input[type=button] {
+    background: sienna;
+    font-weight: 1000;
+    margin: 2%;
+    border-radius: 7px;
+}
+
+input[type=text] {
+    width: 100%;
+    font-size: 20px;
+    border: 2px inset saddlebrown;
+    border-width: 5px;
+}
+
+body {
+    background-image: url("../img/col.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+form {
+    margin-right: 180px;
+    width: 400px;
+}
